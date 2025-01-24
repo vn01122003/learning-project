@@ -30,9 +30,8 @@
    ```
 
 ### **Bước 4: Khởi chạy app**
-    ```bash
-    fastapi dev
-    ```
----
+   ```bash
+   fastapi dev
+   ```
 
 Bạn đã sẵn sàng để bắt đầu dự án! Nếu có bất kỳ thắc mắc nào, hãy liên hệ với nhóm phát triển.

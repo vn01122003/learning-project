@@ -33,5 +33,12 @@
    ```bash
    fastapi dev
    ```
+## 2. Thiết lập cơ bản của các endpoint
+
+## 3. Cấu trúc file và chức năng hiện tại
+
+## 4. Cách sử dụng endpoint
+
+
 
 Bạn đã sẵn sàng để bắt đầu dự án! Nếu có bất kỳ thắc mắc nào, hãy liên hệ với nhóm phát triển.

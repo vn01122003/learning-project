@@ -43,14 +43,5 @@ books = [
         "published_date": "2021-01-01",
         "page_count": 9282,
         "language": "English"
-    },
-    {
-        "id": 6,
-        "title": "Head First HTML5 Programming",
-        "author": "Eric T Freeman",
-        "publisher": "O'Reilly Media",
-        "published_date": "2011-21-01",
-        "page_count": 3006,
-        "language": "English"
     }
 ]
